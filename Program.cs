@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Dungeoneer;
+void Initialize()
+{
+    Console.ForegroundColor = ConsoleColor.Gray;
+    Statistics.setup();
+}
+
+Initialize();
+
+
+
+
+Console.ReadLine();
