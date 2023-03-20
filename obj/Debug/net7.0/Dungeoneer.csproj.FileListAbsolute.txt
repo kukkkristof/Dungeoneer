@@ -1,0 +1,15 @@
+D:\programming\Dungeoneer\obj\Debug\net7.0\Dungeoneer.csproj.AssemblyReference.cache
+D:\programming\Dungeoneer\obj\Debug\net7.0\Dungeoneer.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Dungeoneer\obj\Debug\net7.0\Dungeoneer.AssemblyInfoInputs.cache
+D:\programming\Dungeoneer\obj\Debug\net7.0\Dungeoneer.AssemblyInfo.cs
+D:\programming\Dungeoneer\obj\Debug\net7.0\Dungeoneer.csproj.CoreCompileInputs.cache
+D:\programming\Dungeoneer\bin\Debug\net7.0\Dungeoneer.exe
+D:\programming\Dungeoneer\bin\Debug\net7.0\Dungeoneer.deps.json
+D:\programming\Dungeoneer\bin\Debug\net7.0\Dungeoneer.runtimeconfig.json
+D:\programming\Dungeoneer\bin\Debug\net7.0\Dungeoneer.dll
+D:\programming\Dungeoneer\bin\Debug\net7.0\Dungeoneer.pdb
+D:\programming\Dungeoneer\obj\Debug\net7.0\Dungeoneer.dll
+D:\programming\Dungeoneer\obj\Debug\net7.0\refint\Dungeoneer.dll
+D:\programming\Dungeoneer\obj\Debug\net7.0\Dungeoneer.pdb
+D:\programming\Dungeoneer\obj\Debug\net7.0\Dungeoneer.genruntimeconfig.cache
+D:\programming\Dungeoneer\obj\Debug\net7.0\ref\Dungeoneer.dll
